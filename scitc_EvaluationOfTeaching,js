@@ -2,7 +2,7 @@
 // @name         川信评教
 // @namespace    https://jw.scitc.com.cn/*
 // @version      1.0
-// @description  try to take over the world!
+// @description  一学期一度的评教时间又到了，希望这个脚本可以让你们的评教更简单
 // @author       me
 // @match        https://jw.scitc.com.cn/xspjgl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=scitc.com.cn
@@ -10,6 +10,7 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addElement
+// @license      MIT
 // ==/UserScript==
 
 (function() {
